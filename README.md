@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm DevOps Engineer, currently working at RBC.
+
+### My tech stack
+
+- ![kubernetes](https://github.com/av-petrov/av-petrov/blob/main/kubernetes.svg?raw=true)
+
 <!--
 **av-petrov/av-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
