@@ -8,7 +8,7 @@ I'm DevOps Engineer, currently working at RBC.
 
 ### I’m currently learning
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/go/gray" alt="go" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go/gray" alt="go" /><img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/gray" alt="googlecloud" />
 
 <!--
 **av-petrov/av-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
