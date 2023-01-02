@@ -4,7 +4,7 @@ I'm DevOps Engineer, currently working at RBC.
 
 ### My tech stack
 
-<img height="32" width="32" src="https://github.com/av-petrov/av-petrov/blob/main/img/kubernetes.svg?raw=true" />
+<img height="32" width="32" src="https://github.com/av-petrov/av-petrov/blob/main/img/kubernetes.svg?raw=true" /><img height="32" width="32" src="https://github.com/av-petrov/av-petrov/blob/main/img/terraform.svg?raw=true" />
 
 <!--
 **av-petrov/av-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
